@@ -1,4 +1,4 @@
-# The Scarlett Touch
+# Generic Firebase App
 
 ## Node Version
 
